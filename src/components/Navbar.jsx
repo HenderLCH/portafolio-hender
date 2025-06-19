@@ -13,7 +13,7 @@ const Navbar = ({ t, language, toggleLanguage, scrollToSection, isMenuOpen, setI
             initial={{ opacity: 0, x: -20 }}
             animate={{ opacity: 1, x: 0 }}
           >
-            Portfolio
+            Hender Labrador
           </motion.div>
 
           <div className="hidden md:flex items-center space-x-6">

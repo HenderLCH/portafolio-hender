@@ -3,7 +3,7 @@ import React from 'react';
 
 export const translations = {
   es: {
-    title: "Portafolio - Desarrollador Full-Stack",
+    title: "Hender Labrador Full-Stack Developer",
     description: "Portafolio profesional de desarrollador full-stack especializado en React, Node.js, WordPress y Shopify",
     nav: {
       about: "Acerca de",
@@ -109,7 +109,7 @@ export const translations = {
     }
   },
   en: {
-    title: "Portfolio - Full-Stack Developer",
+    title: "Hender Labrador Full-Stack Developer",
     description: "Professional portfolio of a full-stack developer specialized in React, Node.js, WordPress and Shopify",
     nav: {
       about: "About",
