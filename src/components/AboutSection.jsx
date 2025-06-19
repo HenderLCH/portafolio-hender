@@ -51,7 +51,7 @@ const AboutSection = ({ t }) => {
             <img
               className="w-full h-96 object-cover rounded-2xl shadow-2xl border-2 border-slate-700"
               alt="Developer workspace setup"
-              src="/public/images/PC.jpg" />
+              src="/images/PC.jpg" />
           </motion.div>
         </div>
       </div>

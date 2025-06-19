@@ -80,7 +80,7 @@ export const translations = {
           tech: ["Astro.js", "TailwindCSS", "Node.js", "API REST"],
           github: "https://github.com/HenderLCH/VeraOrtiz-web",
           live: "http://vera-ortiz-web.vercel.app",
-          image: "/public/images/vera-ortiz.png"
+          image: "/images/vera-ortiz.png"
         },
         {
           title: "Sistema de cronometraje por DAQ",
@@ -88,7 +88,7 @@ export const translations = {
           tech: ["Python", "C", "C++", "JavaScript", "HTML", "CSS","Mermaid"],
           github: "https://github.com/fernandol1211/Tesis-Placas-backend",
           live: "https://github.com/fernandol1211/Tesis-Placas-backend",
-          image:"/public/images/placa.jpg"
+          image:"/images/placa.jpg"
         },
         {
           title: "My Face Swap App",

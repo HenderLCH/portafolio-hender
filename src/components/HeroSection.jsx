@@ -47,7 +47,7 @@ const HeroSection = ({ t, scrollToSection, handleContactClick }) => {
               <img
                 className="relative z-10 w-full h-full object-cover rounded-full border-4 border-slate-700 shadow-2xl"
                 alt="Professional developer portrait"
-                src="/public/images/Electronica93.jpg" />
+                src="/images/Electronica93.jpg" />
             </div>
           </motion.div>
         </div>
